@@ -26,5 +26,5 @@
 - **Styling**: Tailwind CSS
 - **Database**: PostgreSQL
 - **State Management**: React hooks with tRPC integration
-- **Deployment**: [Add your deployment platform, e.g., Vercel]
+- **Deployment**: -
 
