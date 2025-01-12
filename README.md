@@ -10,7 +10,6 @@
 - **Dynamic Textareas**: Auto-expanding textareas for convenient task editing without scrollbars.
 - **Interactive List Management**: Rename or delete lists with ease, with hover-based delete visibility.
 - **Persistent Storage**: Data is stored in a PostgreSQL database, ensuring durability and scalability.
-- **Responsive Design**: Fully responsive, providing a smooth experience on desktops, tablets, and mobile devices.
 
 ## How to Use
 1. Click **`+`** to create a new list and add a title.
@@ -27,4 +26,10 @@
 - **Database**: PostgreSQL
 - **State Management**: React hooks with tRPC integration
 - **Deployment**: -
+
+---
+
+## Preview
+
+![App Preview](example.png)
 
