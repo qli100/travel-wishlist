@@ -1,6 +1,6 @@
 # Travel Wishlist
 
-**Travel Wishlist** is a full-stack web application that helps you organize and plan your travels efficiently. The app allows you to create multiple lists, add tasks, and track estimated costs for each trip or itinerary. With drag-and-drop functionality and an intuitive interface, Travel Wishlist makes travel planning simple and seamless.
+**Travel Wishlist** is a full-stack web application that helps you organize and fantasize your travels. 
 
 ## Features
 - **Multiple Lists**: Organize your trips with separate lists for different destinations or purposes.
